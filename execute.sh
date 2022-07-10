@@ -1,0 +1,1 @@
+ansible-playbook $1 -i inventory --private-key ~/Downloads/$2
